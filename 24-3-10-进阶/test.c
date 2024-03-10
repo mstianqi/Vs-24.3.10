@@ -1,6 +1,6 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
-//ö��
+//枚举
 enum day
 {
 	Mon,
